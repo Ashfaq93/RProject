@@ -1,1 +1,14 @@
 ashfaq is now learning git and will complete it soon and fast.
+git add .
+git status
+git log
+git commit -m "some message to acknoledge the change made"
+git diff 
+git add filename.txt/.anything
+git init
+
+git --config user.name = ""
+git --config user.email = ""
+git rm filename.txt
+
+git mv first.txt second.txt ###to rename the file
